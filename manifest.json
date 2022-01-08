@@ -2,8 +2,7 @@
   "short_name": "BuyThorchain.com",
   "name": "BuyThorchain.com Finance",
   "description": "BuyThorchain.com is word's best multi-chain DEX",
-  "icons": [
-    {
+  "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"

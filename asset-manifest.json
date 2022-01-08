@@ -1,27 +1,27 @@
 {
   "files": {
-    "static/js/0.5b68ae6e.chunk.js": "/static/js/0.5b68ae6e.chunk.js",
-    "static/js/0.5b68ae6e.chunk.js.map": "/static/js/0.5b68ae6e.chunk.js.map",
+    "static/js/0.0ba095d6.chunk.js": "/static/js/0.0ba095d6.chunk.js",
+    "static/js/0.0ba095d6.chunk.js.map": "/static/js/0.0ba095d6.chunk.js.map",
     "main.css": "/static/css/main.c7855bb3.chunk.css",
-    "main.js": "/static/js/main.ccf8d092.chunk.js",
-    "main.js.map": "/static/js/main.ccf8d092.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e29a74c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e29a74c5.js.map",
+    "main.js": "/static/js/main.62f00214.chunk.js",
+    "main.js.map": "/static/js/main.62f00214.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.daab1906.js",
+    "runtime-main.js.map": "/static/js/runtime-main.daab1906.js.map",
     "static/css/3.c6c80fdd.chunk.css": "/static/css/3.c6c80fdd.chunk.css",
-    "static/js/3.e1803a7e.chunk.js": "/static/js/3.e1803a7e.chunk.js",
-    "static/js/3.e1803a7e.chunk.js.map": "/static/js/3.e1803a7e.chunk.js.map",
+    "static/js/3.0a0b9488.chunk.js": "/static/js/3.0a0b9488.chunk.js",
+    "static/js/3.0a0b9488.chunk.js.map": "/static/js/3.0a0b9488.chunk.js.map",
     "static/js/4.c758c2a3.chunk.js": "/static/js/4.c758c2a3.chunk.js",
     "static/js/4.c758c2a3.chunk.js.map": "/static/js/4.c758c2a3.chunk.js.map",
     "static/js/5.51d10e92.chunk.js": "/static/js/5.51d10e92.chunk.js",
     "static/js/5.51d10e92.chunk.js.map": "/static/js/5.51d10e92.chunk.js.map",
-    "static/js/6.21918ab8.chunk.js": "/static/js/6.21918ab8.chunk.js",
-    "static/js/6.21918ab8.chunk.js.map": "/static/js/6.21918ab8.chunk.js.map",
+    "static/js/6.09961e28.chunk.js": "/static/js/6.09961e28.chunk.js",
+    "static/js/6.09961e28.chunk.js.map": "/static/js/6.09961e28.chunk.js.map",
     "static/js/7.c7c3fdb9.chunk.js": "/static/js/7.c7c3fdb9.chunk.js",
     "static/js/7.c7c3fdb9.chunk.js.map": "/static/js/7.c7c3fdb9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.c6c80fdd.chunk.css.map": "/static/css/3.c6c80fdd.chunk.css.map",
     "static/css/main.c7855bb3.chunk.css.map": "/static/css/main.c7855bb3.chunk.css.map",
-    "static/js/3.e1803a7e.chunk.js.LICENSE.txt": "/static/js/3.e1803a7e.chunk.js.LICENSE.txt",
+    "static/js/3.0a0b9488.chunk.js.LICENSE.txt": "/static/js/3.0a0b9488.chunk.js.LICENSE.txt",
     "static/media/MuseoModerno-Regular.6019bae4.ttf": "/static/media/MuseoModerno-Regular.6019bae4.ttf",
     "static/media/affiliate-dark.b98d504a.svg": "/static/media/affiliate-dark.b98d504a.svg",
     "static/media/affiliate-light.61b71c88.svg": "/static/media/affiliate-light.61b71c88.svg",
@@ -52,10 +52,10 @@
     "static/media/xdefi-logo.d471fcef.svg": "/static/media/xdefi-logo.d471fcef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e29a74c5.js",
+    "static/js/runtime-main.daab1906.js",
     "static/css/3.c6c80fdd.chunk.css",
-    "static/js/3.e1803a7e.chunk.js",
+    "static/js/3.0a0b9488.chunk.js",
     "static/css/main.c7855bb3.chunk.css",
-    "static/js/main.ccf8d092.chunk.js"
+    "static/js/main.62f00214.chunk.js"
   ]
 }
